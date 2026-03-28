@@ -68,4 +68,5 @@ This dashboard helps stakeholders to:
 📊 Aspiring Data Analyst
 
 🔗 GitHub: https://github.com/omkarlad09
+🔗 linkedin: www.linkedin.com/in/omkar-lad07
 
